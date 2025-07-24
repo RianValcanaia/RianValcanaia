@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   build:
@@ -16,14 +16,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            # Versão para tema escuro (fundo escuro, cobra verde)
+            dist/snake-dark.svg?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#0d1117
+            # Versão para tema claro (fundo branco, cobra verde)
+            dist/snake-light.svg?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#ffffff
