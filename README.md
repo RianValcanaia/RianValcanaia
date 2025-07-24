@@ -1,6 +1,5 @@
 <div align="center">
-
-  <!-- TÍTULO CORRIGIDO -->
+  
   <a href="https://github.com/RianValcanaia">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UDESC;Entusiasta+em+IA++e+LLM;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
   </a>
@@ -25,7 +24,14 @@
 </div>
 
 ##
-
+      
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ##
 
