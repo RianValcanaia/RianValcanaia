@@ -1,7 +1,8 @@
 <div align="center">
 
-  <a href="https://github.com/KawanWeege">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ciência+da+Computação+na+UDESC;Entusiasta+em+IA++e+LLM;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
+  <!-- TÍTULO CORRIGIDO -->
+  <a href="https://github.com/RianValcanaia">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UDESC;Entusiasta+em+IA++e+LLM;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
   </a>
 
   <br><br>
@@ -30,7 +31,8 @@
   <a href="https://github.com/RianValcanaia" style="display: inline_block;">
     <!-- Primeira linha: Ambiente -->
     <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?style=flat&logo=fedora&logoColor=white&color=339A3E"/>
-    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=339A3E"/>
+    <!-- LOGO DO ZSH CORRIGIDO -->
+    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=339A3E"/>
     <br>
     <!-- Segunda linha: Linguagens Principais -->
@@ -42,9 +44,6 @@
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Assembly-informational?style=flat&color=339A3E"/>
-    <!--(url)<img src="https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=339A3E"/>-->
-    <!--<img src="https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=339A3E"/>-->
-    <!--<img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=339A3E"/>-->
   </a>
 </div>
 
@@ -56,7 +55,3 @@
   <a href="mailto:riancarlosvalcanaia99@gmail.com"><img src="https://img.shields.io/badge/Gmail-339A3E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/569291701491859476"><img src="https://img.shields.io/badge/Discord-339A3E?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
-    
-
-    
