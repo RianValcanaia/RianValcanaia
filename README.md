@@ -15,13 +15,12 @@
 
 ## Projetos em Destaque
 <div align="center">
-  
   <a href="https://github.com/RianValcanaia/BCC_Udesc">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=RianValcanaia&repo=BCC_Udesc&theme=dark&show_owner=true" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=RianValcanaia&repo=BCC_Udesc&theme=dark&show_owner=true&cache_seconds=1" />
   </a>
   
   <a href="https://github.com/RianValcanaia/Trabalhos_da_Faculdade">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=RianValcanaia&repo=Trabalhos_da_Faculdade&theme=dark&show_owner=true" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=RianValcanaia&repo=Trabalhos_da_Faculdade&theme=dark&show_owner=true&cache_seconds=1" />
   </a>
 </div>
 
