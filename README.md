@@ -28,18 +28,14 @@
 
 <div align="center">
   <a href="https://github.com/RianValcanaia" style="display: inline_block;">
-    <!-- Primeira linha: Ambiente -->
     <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?style=flat&logo=fedora&logoColor=white&color=339A3E"/>
-    <!-- LOGO DO ZSH CORRIGIDO -->
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=339A3E"/>
+    <img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=339A3E"/>
     <br>
-    <!-- Segunda linha: Linguagens Principais -->
     <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=339A3E"/>
-    <br>
-    <!-- Terceira linha: Linguagens Adicionais -->
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Assembly-informational?style=flat&color=339A3E"/>
