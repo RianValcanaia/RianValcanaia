@@ -26,7 +26,6 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/sectonz/sectonz/output/snake.svg" alt="Snake animation" />
 
 ##
 
