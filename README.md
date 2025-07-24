@@ -26,6 +26,10 @@
 
 ##
 
+<img src="https://raw.githubusercontent.com/sectonz/sectonz/output/snake.svg" alt="Snake animation" />
+
+##
+
 <div align="center">
   <a href="https://github.com/RianValcanaia" style="display: inline_block;">
     <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?style=flat&logo=fedora&logoColor=white&color=339A3E"/>
