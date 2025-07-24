@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/KawanWeege">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ciência+da+Computação+na+UDESC;Entusiasta+de+Machine+Learning+e+LLM;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ciência+da+Computação+na+UDESC;Entusiasta+em+IA++e+LLM;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
   </a>
 
   <br><br>
