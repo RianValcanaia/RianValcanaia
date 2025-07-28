@@ -2,6 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
+    # Roda a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -18,7 +19,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           outputs: |
-            # Versão para tema escuro (fundo escuro, cobra verde)
-            dist/snake-dark.svg?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#0d1117
-            # Versão para tema claro (fundo branco, cobra verde)
-            dist/snake-light.svg?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#ffffff
+            # Arquivo para tema escuro, enviado para o branch 'output'
+            github-contribution-grid-snake-dark.svg@output?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#0d1117
+
+            # Arquivo para tema claro, enviado para o branch 'output'
+            github-contribution-grid-snake.svg@output?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#ffffff
