@@ -27,6 +27,7 @@
       
 <div align="center">
   <img src="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/snek-stats.json" alt="Snek stats">
 </div>
 
 ##
