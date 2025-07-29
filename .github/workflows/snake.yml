@@ -5,10 +5,12 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+  # Roda a cada push no branch main/master para atualização instantânea
   push:
     branches:
-      - main
-
+      - main # ou master, dependendo do nome do seu branch principal
+  
+  # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
@@ -26,14 +28,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#0d1117
-            dist/github-contribution-grid-snake.svg?color_snake=#339A3E&color_dots=#17381A,#206024,#339A3E,#47c44d&color_bg=#ffffff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#000000
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=#000000
 
-  
       - name: Push snake animation files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-
           target_branch: output
           build_dir: dist
         env:
