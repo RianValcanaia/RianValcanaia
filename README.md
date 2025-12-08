@@ -1,26 +1,17 @@
 <div align="center">
-  
   <a href="https://github.com/RianValcanaia">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E¢er=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UDESC;Entusiasta+em+IA++e+LLM;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/RianValcanaia">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RianValcanaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianValcanaia&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=339A3E&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Rian+Carlos+Valcanaia;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UDESC;Entusiasta+em+IA++e+Sistemas+Distribuídos;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
   </a>
 </div>
 
 ## Projetos em Destaque
 <div align="center">
-  <a href="https://github.com/RianValcanaia/BCC_Udesc">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=RianValcanaia&repo=BCC_Udesc&theme=dark&show_owner=true&cache_seconds=30&v=2" />
-  </a>
   
-  <a href="https://github.com/RianValcanaia/Trabalhos_da_Faculdade">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=RianValcanaia&repo=Trabalhos_da_Faculdade&theme=dark&show_owner=true&cache_seconds=30&v=2" />
-  </a>
+| Projeto | Descrição | 
+| :--- | :--- |
+| [**BCC Udesc**](https://github.com/RianValcanaia/BCC_Udesc) | Materiais e códigos do curso de Ciência da Computação. |
+| [**Trabalhos da Faculdade**](https://github.com/RianValcanaia/Trabalhos_da_Faculdade) | Repositório central de trabalhos acadêmicos. | 
+
 </div>
 
 ##
