@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/RianValcanaia" style="display: inline_block;">
-    <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?style=flat&logo=fedora&logoColor=white&color=339A3E"/>
+    <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=339A3E"/>
@@ -35,6 +35,9 @@
     <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=339A3E"/>
     <img src="https://img.shields.io/badge/Code-Assembly-informational?style=flat&color=339A3E"/>
+    <br>
+    <img src="https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=339A3E"/>
+    <img src="https://img.shields.io/badge/Tool-pgAdmin-informational?style=flat&logo=postgresql&logoColor=white&color=339A3E"/>
   </a>
 </div>
 
