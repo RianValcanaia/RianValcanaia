@@ -11,6 +11,7 @@
 | :--- | :--- |
 | [**BCC Udesc**](https://github.com/RianValcanaia/BCC_Udesc) | Materiais e códigos do curso de Ciência da Computação. |
 | [**Trabalhos da Faculdade**](https://github.com/RianValcanaia/Trabalhos_da_Faculdade) | Repositório central de trabalhos acadêmicos. | 
+| [**Hyperledger Fabric Network Automator**](https://github.com/RianValcanaia/IC_Create_Network) | Orquestrador inteligente que automatiza a criação de redes Hyperledger Fabric. |
 
 </div>
 
