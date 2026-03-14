@@ -18,7 +18,11 @@
 ##
       
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/snake-light.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/RianValcanaia/RianValcanaia/output/snake-light.svg">
+  </picture>
 </div>
 
 ##
